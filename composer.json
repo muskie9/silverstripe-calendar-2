@@ -20,7 +20,6 @@
         }
     ],
     "require": {
-        "php": "^7.1",
         "silverware/calendar": "~1",
         "nesbot/carbon": "^1",
         "silverstripe/tagfield": "^2",
